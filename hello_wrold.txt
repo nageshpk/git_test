@@ -1,2 +1,0 @@
-Hello github, just trying out !! \n
-I know the name is wrong hence the commit again.
